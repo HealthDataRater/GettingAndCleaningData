@@ -13,3 +13,4 @@ The R script, `run_analysis.R`, does the following:
 7. Creates an independant tidy dataset that contains the average of each variable for each activity and each subject
 
 The result is stored in the file `tidy.txt`.
+The file `CodeBook.md` explains the data elements of `tidy.txt`
